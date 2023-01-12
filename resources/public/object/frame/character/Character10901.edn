@@ -1,0 +1,23 @@
+{:name "Character10901"
+ :default-idx 10901
+ :walk {:head 1
+        :body 1
+        :foot 1}
+ :stand {:head 1
+         :body 1
+         :foot 1}
+ :trigger {:cloth 10902}
+ :die {:cloth 10905}
+ :win {:cloth 10904}
+ :cry {:cloth 10905}
+ :lose {:cloth 10905}
+ :wait {:cloth 10906}
+ :leg [{:idx 10901 :x 42 :y 77}]
+ :body [{:idx 1 :x 37 :y 61}]
+ :foot [{:idx 1 :x 42 :y 73}]
+ :cloth [{:idx 10901 :x 38 :y 61}]
+ :cloth-mask [{:idx 10901 :x 41 :y 70}]
+ :face [{:idx 10901 :x 32 :y 28}]
+ :hair [{:idx 10901 :x 33 :y 23}]
+ :hair-mask [{:idx 10901 :x 33 :y 23}]
+ }
